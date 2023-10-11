@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "qrpayload": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_valuegotset": "Voaray ny [[valname]] mitentina [[value]]",
+        "str_sample_user_email": "mg._Entrer addresse email"
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "eslint.alwaysShowStatus": true
+    //"eslint.autoFixOnSave": true,
+    //"editor.formatOnSave": true,
+    //"prettier.printWidth": 80
+}

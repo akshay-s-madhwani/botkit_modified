@@ -1,0 +1,12 @@
+{
+  "cms": {
+    "lngtest": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_langchangedtxt": "niova teny malagasy ianao",
+        "str_langchangedqrt": "niova teny malagasy ianao",
+        "str_langchangedqrp": "payload niova teny malagasy ianao"
+      }
+    }
+  }
+}

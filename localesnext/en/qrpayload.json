@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "qrpayload": {
+      "str_afterscriptdone": " just ended! here are the results : ",
+      "default": {
+        "str_valuegotset": "Value [[value]] of [[valname]] well received",
+        "str_sample_user_email": "en._Entrer addresse email"
+      }
+    }
+  }
+}

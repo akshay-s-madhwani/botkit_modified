@@ -1,0 +1,10 @@
+{
+  "cms": {
+    "sampleEcho": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_sample_message": "mg._exemple français"
+      }
+    }
+  }
+}

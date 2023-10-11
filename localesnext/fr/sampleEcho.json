@@ -1,0 +1,10 @@
+{
+  "cms": {
+    "sampleEcho": {
+      "str_afterscriptdone": " vient de finir, voici les résultats : ",
+      "default": {
+        "str_sample_message": "exemple français"
+      }
+    }
+  }
+}

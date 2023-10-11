@@ -1,0 +1,10 @@
+{
+  "cms": {
+    "dyncar": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_dyncarstart": "manomboka [[anarana]] [[fanampiny]]"
+      }
+    }
+  }
+}

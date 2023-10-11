@@ -1,0 +1,12 @@
+{
+  "cms": {
+    "Testing variable inputs": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_valuegotset": "Voaray ny [[valname]] mitentina [[value]]",
+        "str_dyncarstart": "Iza no anaranao",
+        "str_dyncarstart1": "Anaranao azafady ?"
+      }
+    }
+  }
+}

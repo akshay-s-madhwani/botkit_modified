@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "hello": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_test1": "miteny [[lang]]",
+        "str_test": "mg._parle0 [[lang]]"
+      }
+    }
+  }
+}

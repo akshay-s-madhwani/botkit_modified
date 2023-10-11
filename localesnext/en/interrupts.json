@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "interrupts": {
+      "str_afterscriptdone": " just ended! here are the results : ",
+      "default": {
+        "str_langchanged": "You changed lang to English",
+        "str_langunchanged": "Sorry but I am not yet talking that language"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cms": {
+    "interruptlangdialog": {
+      "str_afterscriptdone": " just ended! here are the results : ",
+      "lngchunknown": {
+        "str_valuegotset": "en._Valeur [[value]] de [[valname]] bien reçu",
+        "str_lngchunknown": "Language unknown,\\nplease choose from language I do know ?",
+        "str_lngchunknownqr1title": "en._qrtitle1_fr",
+        "str_payloadvars_lngchunknownqr1title": "qrpayload1_en",
+        "str_lngchunknownqr2title": "qrtitle2_en",
+        "str_payloadvars_lngchunknownqr2title": "qrpayload2_en"
+      },
+      "lngchsuccess": {
+        "str_lngsuccess": "English language activated"
+      },
+      "default": {
+        "str_starthelp": "I heard you need help more than anything else!",
+        "str_askhelp": "What can I help with?",
+        "str_hrrm": "HRRM! What do I know about"
+      },
+      "display_results": {
+        "str_hrrm": "This is what I know: "
+      }
+    }
+  }
+}

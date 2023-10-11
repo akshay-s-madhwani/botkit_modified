@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "interrupted_lang_change": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_interrupted_lang_change": "Niova ho [[newlang]] ny teny",
+        "str_interrupted_lang_change1": "mg._Nous parlerons en [[newlang]]"
+      }
+    }
+  }
+}

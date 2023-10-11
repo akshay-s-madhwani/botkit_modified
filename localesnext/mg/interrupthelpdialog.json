@@ -1,0 +1,16 @@
+{
+  "cms": {
+    "interrupthelpdialog": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_valuegotset": "Voaray ny [[valname]] mitentina [[value]]",
+        "str_starthelp": "Henoko hoe tena mila vonjy tokoa ianao izany!",
+        "str_askhelp": "Inona no azo atao?",
+        "str_hrrm": "HRRM! Inona no haiko mikasika"
+      },
+      "display_results": {
+        "str_hrrm": "mg._Voici ce que je sais: "
+      }
+    }
+  }
+}

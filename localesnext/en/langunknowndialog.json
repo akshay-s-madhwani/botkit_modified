@@ -1,0 +1,18 @@
+{
+  "cms": {
+    "langunknowndialog": {
+      "str_afterscriptdone": " just ended! here are the results : ",
+      "default": {
+        "str_valuegotset": "Value [[value]] of [[valname]] well received",
+        "str_lngchunknown": "Language unknown (",
+        "str_lngchunknown1": "),\\nplease choose from language I do know ?",
+        "str_lngchunknown2": "I don't know  (",
+        "str_lngchunknown3": "),\\nyou can choose from below :",
+        "str_lngchunknownqr1title": "qrtitle1_en",
+        "str_payloadvars_lngchunknownqr1title": "en._qrpayload1_fr",
+        "str_lngchunknownqr2title": "qrtitle2_en",
+        "str_payloadvars_lngchunknownqr2title": "en._qrpayload2_fr"
+      }
+    }
+  }
+}

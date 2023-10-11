@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "interrupts": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_langchanged": "Niova teny Malagasy ianao",
+        "str_langunchanged": "Azafady fa tsy mbola miteny io fiteny io aho"
+      }
+    }
+  }
+}

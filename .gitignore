@@ -1,0 +1,6 @@
+.env
+poubelle/
+node_modules
+node_modules_
+.nyc_output
+facebook-store

@@ -1,0 +1,26 @@
+{
+  "cms": {
+    "interruptlangdialog": {
+      "str_afterscriptdone": " vient de finir, voici les résultats : ",
+      "lngchunknown": {
+        "str_valuegotset": "Valeur [[value]] de [[valname]] bien reçu",
+        "str_lngchunknown": "Langue inconnue,\\nsvp choisissez une langue que je connais ?",
+        "str_lngchunknownqr1title": "qrtitle1_fr",
+        "str_payloadvars_lngchunknownqr1title": "qrpayload1_fr",
+        "str_lngchunknownqr2title": "qrtitle2_fr",
+        "str_payloadvars_lngchunknownqr2title": "fr._qrpayload2_fr"
+      },
+      "lngchsuccess": {
+        "str_lngsuccess": "Langue française activée"
+      },
+      "default": {
+        "str_starthelp": "J'entends que vous voulez de l'aide plus qu'autre chose",
+        "str_askhelp": "Que puis-je faire pour vous?",
+        "str_hrrm": "fr._HRRM! Que sais-je de"
+      },
+      "display_results": {
+        "str_hrrm": "Voici ce que je sais: "
+      }
+    }
+  }
+}

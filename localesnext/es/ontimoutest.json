@@ -1,0 +1,14 @@
+{
+  "cms": {
+    "ontimoutest": {
+      "str_afterscriptdone": "es._ vient de finir, voici les résultats : ",
+      "default": {
+        "str_customizeme_text1": "es._initial value of default#é'è.FR"
+      },
+      "on_timeout": {
+        "str_distracted": "es._fr Default str_distracted for i18n",
+        "str_timeoutsecondline": "es._Default test for i18n"
+      }
+    }
+  }
+}

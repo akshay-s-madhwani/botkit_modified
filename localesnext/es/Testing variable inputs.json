@@ -1,0 +1,12 @@
+{
+  "cms": {
+    "Testing variable inputs": {
+      "str_afterscriptdone": "es._ vient de finir, voici les résultats : ",
+      "default": {
+        "str_valuegotset": "es._Valeur [[value]] de [[valname]] bien reçu",
+        "str_dyncarstart": "es._Quel est votre nom",
+        "str_dyncarstart1": "es._Votre nom svp ?"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "cms": {
+    "PAYLOAD_INTERRUPT_CODE": {
+      "str_afterscriptdone": " just ended! here are the results : "
+    }
+  }
+}

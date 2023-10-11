@@ -1,0 +1,18 @@
+{
+  "cms": {
+    "langunknowndialog": {
+      "str_afterscriptdone": "es._ vient de finir, voici les résultats : ",
+      "default": {
+        "str_valuegotset": "es._Valeur [[value]] de [[valname]] bien reçu",
+        "str_lngchunknown": "es._Langue inconnue (",
+        "str_lngchunknown1": "es._),\\nsvp choisissez une langue que je connais ?",
+        "str_lngchunknown2": "es._Je ne reconnais pas (",
+        "str_lngchunknown3": "es._),\\nvous avez plusieurs choix ci-après :",
+        "str_lngchunknownqr1title": "es._qrtitle1_fr",
+        "str_payloadvars_lngchunknownqr1title": "es._qrpayload1_fr",
+        "str_lngchunknownqr2title": "es._qrtitle2_fr",
+        "str_payloadvars_lngchunknownqr2title": "es._qrpayload2_fr"
+      }
+    }
+  }
+}

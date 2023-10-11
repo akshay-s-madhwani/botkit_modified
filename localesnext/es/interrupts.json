@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "interrupts": {
+      "str_afterscriptdone": "es._ vient de finir, voici les résultats : ",
+      "default": {
+        "str_langchanged": "es._Vous avez demandé la langue Française",
+        "str_langunchanged": "es._Desolé mais je ne parle pas encore cette langue"
+      }
+    }
+  }
+}

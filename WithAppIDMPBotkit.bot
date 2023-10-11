@@ -1,0 +1,24 @@
+{
+    "name": "WithAppIDMPBotkit",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "27f5e72d-d644-4862-865b-ac940b9f5d38",
+            "appPassword": "sB3:6sJQawB9QPu[SVc1tO.L?glk4B5y",
+            "endpoint": "http://localhost:3000/api/botframework",
+            "id": "74193890-f3de-11e9-a3fd-07c90345a3e3",
+            "name": "http://localhost:3000/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "endpoint": "http://localhost:3000/api/messages",
+            "name": "test",
+            "id": "10"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\Akshay\\Documents\\Current_projects\\botkit\\2021botkitfacebookakshay\\WithAppIDMPBotkit.bot",
+    "overrides": null
+}

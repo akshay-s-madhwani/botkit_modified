@@ -1,0 +1,26 @@
+{
+  "cms": {
+    "interruptlangdialog": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "lngchunknown": {
+        "str_valuegotset": "Voaray ny [[valname]] mitentina [[value]]",
+        "str_lngchunknown": "Teny tsy fantatra,\\nazafady misafidiana amin'ireo teny fantatro ?",
+        "str_lngchunknownqr1title": "qrtitle1_mg",
+        "str_payloadvars_lngchunknownqr1title": "qrpayload1_mg",
+        "str_lngchunknownqr2title": "qrtitle2_mg",
+        "str_payloadvars_lngchunknownqr2title": "qrpayload2_mg"
+      },
+      "lngchsuccess": {
+        "str_lngsuccess": "Niova malagasy ny teny"
+      },
+      "default": {
+        "str_starthelp": "Henoko hoe tena mila vonjy tokoa ianao izany!",
+        "str_askhelp": "Inona no azo atao?",
+        "str_hrrm": "HRRM! Inona no haiko mikasika"
+      },
+      "display_results": {
+        "str_hrrm": "mg._Voici ce que je sais: "
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "cms": {
+    "botgetstarted": {
+      "str_afterscriptdone": "es._ vient de finir, voici les résultats : "
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cms": {
+    "catalogue": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_getting_started3": "manomboka [[anarana]] [[fanampiny]]",
+        "str_getting_started": "manomboka [[anarana]] [[fanampiny]]",
+        "str_getting_started1": "manomboka1 [[anarana]] [[fanampiny]]",
+        "str_getting_started2": "manomboka2 [[anarana]] [[fanampiny]]",
+        "str_carouselpayloadbutton1": "azer",
+        "str_carousel1subtitle1sfqsfqddfqsfqsfqsdDFSQFGFDGDFSFGSDGSDF": "subtlMG",
+        "str_carousel2titlesfqsfqddfqsfqsfqsdDFSQFGFDGDFSFGSDGSDF": "subtlMG"
+      }
+    }
+  }
+}

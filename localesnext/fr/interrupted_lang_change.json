@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "interrupted_lang_change": {
+      "str_afterscriptdone": " vient de finir, voici les résultats : ",
+      "default": {
+        "str_interrupted_lang_change": "Langue changée en [[newlang]]",
+        "str_interrupted_lang_change1": "Nous parlerons en [[newlang]]"
+      }
+    }
+  }
+}

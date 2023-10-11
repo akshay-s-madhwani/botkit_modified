@@ -1,0 +1,18 @@
+{
+  "cms": {
+    "langunknowndialog": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_valuegotset": "Voaray ny [[valname]] mitentina [[value]]",
+        "str_lngchunknown": "Teny tsy fantatra (",
+        "str_lngchunknown1": "),\\nazafady misafidiana amin'ireo teny fantatro ?",
+        "str_lngchunknown2": "Tsy mbola miteny (",
+        "str_lngchunknown3": ") aho,\\nireto ny teny azonao isafidianana :",
+        "str_lngchunknownqr1title": "qrtitle1_mg",
+        "str_payloadvars_lngchunknownqr1title": "qrpayload1_mg",
+        "str_lngchunknownqr2title": "qrtitle2_mg",
+        "str_payloadvars_lngchunknownqr2title": "qrpayload2_mg"
+      }
+    }
+  }
+}

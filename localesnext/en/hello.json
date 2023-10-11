@@ -1,0 +1,13 @@
+{
+  "cms": {
+    "hello": {
+      "str_afterscriptdone": " just ended! here are the results : ",
+      "default": {
+        "str_test1": "speak [[lang]]",
+        "str_test2": "en._parle2[[lang]].com",
+        "str_test": "speak0 [[lang]]",
+        "str_valuegotset": "Value [[value]] of [[valname]] well received"
+      }
+    }
+  }
+}

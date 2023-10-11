@@ -1,0 +1,22 @@
+{
+  "cms": {
+    "catalogue": {
+      "str_afterscriptdone": " vient de finir, voici les résultats : ",
+      "default": {
+        "str_valuegotset": "fr._Valeur [[value]] de [[valname]] bien reçu",
+        "str_getting_started3": "commence [[anarana]] [[fanampiny]]",
+        "str_getting_started": "commence [[anarana]] [[fanampiny]]",
+        "str_getting_started1": "commence1 [[anarana]] [[fanampiny]]",
+        "str_getting_started2": "commence2 [[anarana]] [[fanampiny]]",
+        "str_mustache_variable": "FRstr_mustache_variable [[es6var]]",
+        "str_combien": "fr._frTenyfrantsay",
+        "str_payloadvars_combien": "VARS_mustacheCOMBIEN_CUSTOMIZED:secondaryobject after deux point",
+        "str_depuis": "str_depuisFR",
+        "str_payloadvars_depuis": "VARS_mustacheDEPUIS_CUSTOMIZED",
+        "str_carouselpayloadbutton1": "fr._wxcvb",
+        "str_carousel1subtitle1sfqsfqddfqsfqsfqsdDFSQFGFDGDFSFGSDGSDF": "fr._subtlFR",
+        "str_carousel2titlesfqsfqddfqsfqsfqsdDFSQFGFDGDFSFGSDGSDF": "subtlFR"
+      }
+    }
+  }
+}

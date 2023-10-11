@@ -1,0 +1,12 @@
+{
+  "cms": {
+    "lngtest": {
+      "str_afterscriptdone": "es._ vient de finir, voici les résultats : ",
+      "default": {
+        "str_langchangedtxt": "es._vous avez changé la langue en français",
+        "str_langchangedqrt": "es._vous avez changé la langue en français",
+        "str_langchangedqrp": "es._payload vous avez changé la langue en français"
+      }
+    }
+  }
+}

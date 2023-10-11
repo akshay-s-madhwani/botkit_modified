@@ -1,0 +1,11 @@
+{
+  "cms": {
+    "hello": {
+      "str_afterscriptdone": " vient de finir, voici les résultats : ",
+      "default": {
+        "str_test1": "parle [[lang]]",
+        "str_test": "parle0 [[lang]]"
+      }
+    }
+  }
+}

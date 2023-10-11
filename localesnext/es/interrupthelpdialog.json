@@ -1,0 +1,16 @@
+{
+  "cms": {
+    "interrupthelpdialog": {
+      "str_afterscriptdone": "es._ vient de finir, voici les résultats : ",
+      "default": {
+        "str_valuegotset": "es._Valeur [[value]] de [[valname]] bien reçu",
+        "str_starthelp": "es._J'entends que vous voulez de l'aide plus qu'autre chose",
+        "str_askhelp": "es._Que puis-je faire pour vous?",
+        "str_hrrm": "es._HRRM! Que sais-je de"
+      },
+      "display_results": {
+        "str_hrrm": "es._Voici ce que je sais: "
+      }
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "args": [
+        "-u",
+        "bdd",
+        "--timeout",
+        "999999",
+        "--colors",
+        "--delay",
+        "${workspaceFolder}/bot.js"
+      ],
+      "console": "internalConsole",
+      "name": "Mocha Botkit Tests",
+      "program": "${workspaceFolder}/node_modules/mocha/bin/_mocha",
+      "request": "launch",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "type": "pwa-node",
+      "env": {
+        "PORT": "3124",
+        "DYNO": "dynosample",
+        //"DEBUG": "*,-follow*,-body-parser:*,-express:*,-testing*",
+        "NPM_CONFIG_LOGLEVEL": "error",
+        "NODE_VERBOSE": "true",
+        "TYPINGCOST": "1",
+        "NODE_ENV": "development",
+        "DEBUG_COLORS": "true",
+        "FACEBOOK_VERIFY_TOKEN": "OranKenzaNoah1982",
+        "FACEBOOK_ACCESS_TOKEN": "EAAD8BUPi3ZA0BAOlJUCwBJavHCR6JaYp3NEBQ1ZCjXXfSTZBJUGJkWyfXNCWNbkFxLbO0hzZCKIooN6lzkZBOWMSaY2tPOZAVmOpagz6hyqPZCfZBe1OGH3paMrPft0Q31VcqCTtA8o5gLGCLOIxGpxQUCPIvZB8TscsGM1gsiqypqgZDZD",
+        "FACEBOOK_APP_SECRET": "b19d4557f8bd3258c5ffada1a2ba5377",
+        "FACEBOOK_APP_ID": "277099543977373",
+        "FACEBOOK_API_HOST": "127.0.0.1:45100",
+        "FACEBOOK_API_VERSION": "v3.2",
+        "cms_uri": "http://localhost:3005/",
+        "cms_token": "youwillneverguessmysecretbottoken",
+        "TWILIO_ACCOUNT_SID":"AC6c052941e00067bdecd68b80874c5529", // Account SID
+        "TWILIO_AUTH_TOKEN":"c17dc2108f6c930c5a3da0867f98a771", // Auth Token
+        "TWILIO_NUMBER":"+14155238886", // The From parameter consisting of whatsapp: followed by the sending WhatsApp number (using E.164 formatting)
+        "TWILIO_ENDPOINT_URL":"https://335478711aa7.ngrok.io/api/whatsapp/messages" // Endpoint URL you configured in the sandbox, used for validation
+      },
+      "outputCapture": "std"
+    },
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Docker: Attach to Node",
+      "remoteRoot": "/usr/src/app"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "nodemon",
+      "runtimeExecutable": "nodemon",
+      "program": "${workspaceFolder}/app.js",
+      "restart": true,
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug Current Opened File",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Simple Nodemon",
+      "runtimeExecutable": "nodemon",
+      "program": "${workspaceFolder}/bot.js",
+      "restart": true,
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "env": {
+        "DEBUG": "*,-follow*,-body*,-express:*,-nodemon*,-snapdragon*",
+        "DEBUG_COLORS": "true",
+        "DYNO": "dynosample"
+      },
+      "skipFiles": [
+        "${workspaceRoot}/node_modules/**/*.js",
+        "${workspaceRoot}/modules/**/node_modules/**/*.js",
+        "<node_internals>/**/*.js",
+        "<node_internals>/*"
+      ],
+      "outputCapture": "std"
+    },
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Nodemon Attach",
+      "port": 5858,
+      "address": "localhost",
+      "restart": false,
+      "sourceMaps": false,
+      "outFiles": [],
+      "localRoot": "${workspaceFolder}",
+      "remoteRoot": null
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Local NoDyno Debug MP Botkit",
+      "program": "${workspaceFolder}\\bot.js",
+      "cwd": "${workspaceFolder}",
+      "protocol": "auto",
+      "runtimeArgs": [
+        "--preserve-symlinks"
+      ],
+      "env": {
+        "DYNO": "dynosample",
+        "DEBUG": "*,-follow*,-body-parser:*,-express:*,-testing*,-i18next:*",
+        //"NPM_CONFIG_LOGLEVEL": "error",
+        "NODE_VERBOSE": "false",
+        "TYPINGCOST": "1",
+        "NODE_ENV": "development",
+        "DEBUG_COLORS": "true",
+        "POSTGRES_URI":"postgres://postgres:1234@localhost:5432/postgres",
+        "FACEBOOK_VERIFY_TOKEN": "OranKenzaNoah1982",
+        "FACEBOOK_ACCESS_TOKEN": "EAAD8BUPi3ZA0BAOlJUCwBJavHCR6JaYp3NEBQ1ZCjXXfSTZBJUGJkWyfXNCWNbkFxLbO0hzZCKIooN6lzkZBOWMSaY2tPOZAVmOpagz6hyqPZCfZBe1OGH3paMrPft0Q31VcqCTtA8o5gLGCLOIxGpxQUCPIvZB8TscsGM1gsiqypqgZDZD",
+        "FACEBOOK_APP_SECRET": "b19d4557f8bd3258c5ffada1a2ba5377",
+        "FACEBOOK_APP_ID": "277099543977373",
+        "cms_uri": "http://localhost:3005/",
+        "cms_token": "youwillneverguessmysecretbottoken",
+        "TWILIO_ACCOUNT_SID":"AC6c052941e00067bdecd68b80874c5529", // Account SID
+        "TWILIO_AUTH_TOKEN":"c17dc2108f6c930c5a3da0867f98a771", // Auth Token
+        "TWILIO_NUMBER":"+14155238886", // The From parameter consisting of whatsapp: followed by the sending WhatsApp number (using E.164 formatting)
+        "TWILIO_ENDPOINT_URL":"https://ac7d7822ec0b.ngrok.io/api/whatsapp/messages" // Endpoint URL you configured in the sandbox, used for validation
+      },
+      "sourceMaps": true,
+      "autoAttachChildProcesses": true,
+      "outputCapture": "std"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "HerokuDYNO Debug MP Botkit",
+      "program": "${workspaceFolder}\\bot.js",
+      "cwd": "${workspaceFolder}",
+      "protocol": "auto",
+      "runtimeArgs": [
+        "-r",
+        "./my-nock-recorder.js",
+        "--preserve-symlinks",
+        "--nolazy"
+      ],
+      "env": {
+        "PORT": "3123",
+        "DYNO": "dynosample",
+        "DEBUG": "*,-follow*,-body-parser:*,-express:*,-testing*,-sequelize:sql:pg",
+        "NPM_CONFIG_LOGLEVEL": "error",
+        "NODE_VERBOSE": "true",
+        "TYPINGCOST": "0",
+        "NODE_ENV": "development",
+        "POSTGRES_URI":"postgresql://postgres:1234@localhost:5432/postgres",
+        "DEBUG_COLORS": "true",
+        "FACEBOOK_VERIFY_TOKEN": "OranKenzaNoah1982",
+        "FACEBOOK_ACCESS_TOKEN": "EAAD8BUPi3ZA0BAOlJUCwBJavHCR6JaYp3NEBQ1ZCjXXfSTZBJUGJkWyfXNCWNbkFxLbO0hzZCKIooN6lzkZBOWMSaY2tPOZAVmOpagz6hyqPZCfZBe1OGH3paMrPft0Q31VcqCTtA8o5gLGCLOIxGpxQUCPIvZB8TscsGM1gsiqypqgZDZD",
+        "FACEBOOK_APP_SECRET": "b19d4557f8bd3258c5ffada1a2ba5377",
+        "FACEBOOK_APP_ID": "277099543977373",
+        "FACEBOOK_API_HOST": "localhost:45100",
+        "FACEBOOK_API_VERSION": "v3.2",
+        "cms_uri": "http://localhost:3005/",
+        "cms_token": "youwillneverguessmysecretbottoken",
+        "TWILIO_ACCOUNT_SID":"AC6c052941e00067bdecd68b80874c5529", // Account SID
+        "TWILIO_AUTH_TOKEN":"c17dc2108f6c930c5a3da0867f98a771", // Auth Token
+        "TWILIO_NUMBER":"+14155238886", // The From parameter consisting of whatsapp: followed by the sending WhatsApp number (using E.164 formatting)
+        "TWILIO_ENDPOINT_URL":"http://localhost:3123/api/whatsapp/messages", // Endpoint URL you configured in the sandbox, used for validation
+        "TELEGRAM_WEBHOOK_URL_HOST_NAME":"https://ebfa-41-77-17-12.ngrok.io",
+        "TELEGRAM_TOKEN":"1997366604:AAFjgeQEZsar1m5IjRbGDDwqmVK7M0yXVTo"
+            },
+      "console": "integratedTerminal",
+      "sourceMaps": true,
+      "autoAttachChildProcesses": true,
+      "outputCapture": "std",
+      "skipFiles": [
+        "${workspaceRoot}/node_modules/cls-hooked/*.js",
+        "<node_internals>/**/*.js",
+        "<node_internals>/**",
+        "<node_internals>/*"
+      ]
+    },
+  ],
+}

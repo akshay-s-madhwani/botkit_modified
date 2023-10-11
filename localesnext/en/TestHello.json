@@ -1,0 +1,7 @@
+{
+  "cms": {
+    "TestHello": {
+      "str_afterscriptdone": " just ended! here are the results : "
+    }
+  }
+}

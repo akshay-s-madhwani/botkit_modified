@@ -1,0 +1,10 @@
+{
+  "cms": {
+    "dyncar": {
+      "str_afterscriptdone": " just ended! here are the results : ",
+      "default": {
+        "str_dyncarstart": "get started [[anarana]] [[fanampiny]]"
+      }
+    }
+  }
+}

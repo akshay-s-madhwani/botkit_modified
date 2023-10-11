@@ -1,0 +1,22 @@
+{
+  "cms": {
+    "catalogue": {
+      "str_afterscriptdone": " just ended! here are the results : ",
+      "default": {
+        "str_valuegotset": "Value [[value]] of [[valname]] well received",
+        "str_getting_started3": "get started [[anarana]] [[fanampiny]]",
+        "str_getting_started": "get start [[anarana]] [[fanampiny]]",
+        "str_getting_started1": "get start1 [[anarana]] [[fanampiny]]",
+        "str_getting_started2": "get start2 [[anarana]] [[fanampiny]]",
+        "str_mustache_variable": "ENstr_mustache_variable [[es6var]]",
+        "str_combien": "enTenyAnglisy",
+        "str_payloadvars_combien": "VARS_mustacheCOMBIEN_CUSTOMIZED:secondaryobject after deux point",
+        "str_depuis": "str_depuisEN",
+        "str_payloadvars_depuis": "VARS_mustacheDEPUIS_CUSTOMIZED",
+        "str_carouselpayloadbutton1": "qsdffg",
+        "str_carousel1subtitle1sfqsfqddfqsfqsfqsdDFSQFGFDGDFSFGSDGSDF": "subtlEN",
+        "str_carousel2titlesfqsfqddfqsfqsfqsdDFSQFGFDGDFSFGSDGSDF": "subtlEN"
+      }
+    }
+  }
+}

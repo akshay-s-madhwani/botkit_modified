@@ -1,0 +1,13 @@
+{
+  "cms": {
+    "hello": {
+      "default": {
+        "str_test1": "hablar [[lang]]",
+        "str_test2": "es._parle2[[lang]].com",
+        "str_test": "es._parle0 [[lang]]",
+        "str_valuegotset": "es._Valeur [[value]] de [[valname]] bien reçu"
+      },
+      "str_afterscriptdone": "es._ vient de finir, voici les résultats : "
+    }
+  }
+}

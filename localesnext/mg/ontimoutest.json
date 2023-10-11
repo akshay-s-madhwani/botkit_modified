@@ -1,0 +1,14 @@
+{
+  "cms": {
+    "ontimoutest": {
+      "str_afterscriptdone": " dia vita! ireto ny valiny : ",
+      "default": {
+        "str_customizeme_text1": "initial value of default#é'è.MG"
+      },
+      "on_timeout": {
+        "str_distracted": "mg Default str_distracted for i18n",
+        "str_timeoutsecondline": "Default test for i18n"
+      }
+    }
+  }
+}
